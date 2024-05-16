@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Kelvendra
 - 👀 I’m interested in Computer Science as a whole, but trying to dabble into Cybersecurity
 - 🌱 I’m currently learning a couple of programming languages, and some concepts in Cybersecurity
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on coding projects 
 - 📫 How to reach me, kelvendrafrancies@gmail.com
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I love playing sports, watching shows/movies and using the computer
